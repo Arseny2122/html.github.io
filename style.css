@@ -1,0 +1,29 @@
+table,
+td {
+    height: 40px;
+    width: 400px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+.bg_color_1 {
+    background-color: #699b9a;
+}
+.bg_color_2 {
+    background-color: #9db1b0;
+}
+
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
